@@ -10,4 +10,6 @@ Componenten:  - 2 LED lampjes (liefst rood en groen voor access aan te duiden)
               - Minimum 2 cards/tags met UID
               - 2 220 Ohm weerstandjes voor de LED's
 
-In de andere bestanden in deze repository kan u de code vinden en een korte demo van het project.
+In het andere bestand in deze repository kan u de code vinden.
+
+link naar korte demo: https://youtu.be/xQQOW4PcfQE
